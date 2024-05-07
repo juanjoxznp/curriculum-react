@@ -7,3 +7,13 @@
     width: 13rem;
    
 }
+
+.technologies{
+    display: flex;
+    justify-content: space-around;
+}
+
+.techImg > img {
+    width: 8rem;
+    height: 8rem;
+}
