@@ -1,0 +1,9 @@
+.levels {
+    display: flex;
+}
+
+.levelImg > img{
+
+    width: 13rem;
+   
+}

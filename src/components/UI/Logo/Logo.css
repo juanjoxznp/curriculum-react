@@ -1,0 +1,16 @@
+.header-page > img {
+    width: 17rem;
+    height: 17rem;
+    border-radius: 10rem;
+    margin-bottom: 5rem;
+    margin-top: 1.5rem;
+
+}
+
+.header-page > .logo2 {
+    width: 9rem;
+    height: 9rem;
+    border-radius: 5rem;
+    margin-top: 7rem;
+
+}

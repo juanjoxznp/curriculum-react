@@ -1,0 +1,30 @@
+.cardOne{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 17rem;
+    height: 7rem;
+    background-color: #39a900;
+    border-radius: 1rem;
+    gap: 2rem;
+    margin-top: 1.5rem;
+}
+
+.cardOne > div > img {
+
+    width: 5.5rem;
+    height: 5.5rem;
+}
+
+.Bloque1-1{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+
+.Bloque2-2{
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 1.5rem;
+
+}
